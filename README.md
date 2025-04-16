@@ -3,6 +3,8 @@
 A simple admin panel built with React for managing electric scooter rentals. The system allows users to add, edit, delete, and view scooter data. All data is stored in the browser's `localStorage`, so no external database is required.
 
 ---
+![screen](https://github.com/user-attachments/assets/064a48c4-2c4f-4db0-977f-3b9607eee0c7)
+
 
 ## 🚀 Features
 
